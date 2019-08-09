@@ -4,7 +4,7 @@ Now that we are all on the same page, we should be able to go ahead and create t
 
 ## Step 1
 
-Overwrite the Dockerfile with the contents of DF2. ONce that has been done, build your Docker image again
+Overwrite the Dockerfile with the contents of DF2. Once that has been done, build your Docker image again
 
 `docker build -t <userid>/ovsage-test .`
 
